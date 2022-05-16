@@ -1,5 +1,9 @@
 # Projeto-Mflix
 Fazendo um Streamer para o trabalho da faculdade (Autor : Grupo informado em **Sobre o projeto**)
+
+Link da Url: https://projeto-mflix.vercel.app/
+       (Acesso a interface do projeto sem a necessidade de baixar ou clonar para sua maquina!!)
+
 <h1 align="center">
 
 :computer: **PROJETO Mflix**
