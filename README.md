@@ -46,7 +46,7 @@ Mikhael, Anderson , Julious , willcany , Louriel.
 - 1)rm -rf .git
 - 2)git init 
 - 3)npm i (*obs:* aguarde pois as vezes pode levar um tempo , prossiga sempre que aparacer a mensagem verde ( com a pasta principal do seu desktop )
-- 4) npm start ( mais uma vez aguarde pois pode demorar !! ) 
+- 4)npm start ( mais uma vez aguarde pois pode demorar !! ) 
 
 ```bash
         
