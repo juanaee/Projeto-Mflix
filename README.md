@@ -38,8 +38,8 @@ Mikhael, Anderson , Julious , willcany , Louriel.
 ## ⏬ Como baixar o projeto
 - <b style="color:red"> OBS: </b> 
 - Executa os seguintes passos: 
-- Baixar nodeJS
-- Baixar GitBash (git)
+- Baixar nodeJS link : https://nodejs.org/en/download/
+- Baixar GitBash (git) link : https://git-scm.com/downloads
 - Clonar pasta ou baixar zipada ( extrair ) 
 - abrir pasta e clicar com o botão direito e aperta na opção gitBash
 - apos abrir a tela do terminal usar a sequencia dos seguintes comando 
