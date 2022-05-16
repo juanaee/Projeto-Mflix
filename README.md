@@ -43,7 +43,7 @@ Mikhael, Anderson , Julious , willcany , Louriel.
 - Clonar pasta ou baixar zipada ( extrair ) 
 - abrir pasta e clicar com o botão direito e aperta na opção gitBash
 - apos abrir a tela do terminal usar a sequencia dos seguintes comando 
-- 1) rm -rf .git
+- 1)rm -rf .git
 - 2)git init 
 - 3)npm i (*obs:* aguarde pois as vezes pode levar um tempo , prossiga sempre que aparacer a mensagem verde ( com a pasta principal do seu desktop )
 - 4) npm start ( mais uma vez aguarde pois pode demorar !! ) 
